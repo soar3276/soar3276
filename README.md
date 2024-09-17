@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/soar3276/soar3276/main/soar123-ezgif.com-crop.gif" alt="Sahil Shah" width="200"/>
+  <img src="https://raw.githubusercontent.com/soar3276/soar3276/main/soar123-ezgif.com-crop.gif" alt="Sahil Shah" width="600"/>
   <br>Hi 👋, I'm Sahil Shah
 </h1>
 <h3 align="center">Cybersecurity Enthusiast | Penetration Tester | Incident Response | CTF Player | Custom Tool Creator | Network Security</h3>
