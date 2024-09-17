@@ -1,16 +1,22 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/soar3276/soar3276/main/soar.gif" alt="Sahil Shah" width="800"/>
-  
+  <br>Hi 👋, I'm Sahil Shah
 </h1>
-<h4 align="center">Cybersecurity Enthusiast | Penetration Tester | Incident Response | CTF Player | Custom Tool Creator | Network Security</h4>
+<h3 align="center">Cybersecurity Enthusiast | Penetration Tester | Incident Response | CTF Player | Custom Tool Creator | Network Security</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil3276&label=Profile%20views&color=0e75b6&style=flat" alt="sahil3276" /> </p>
+<details>
+  <summary>📈 GitHub Statistics</summary>
+  
+  ![GitHub Statistics](https://metrics.lecoq.io/kkrypt0nn?template=classic&followup=1&languages=1&config.timezone=Europe%2FZurich)
+  
+</details>
 
-<p align="left"> <a href="https://twitter.com/sahil3276" target="blank"><img src="https://img.shields.io/twitter/follow/sahil3276?logo=twitter&style=for-the-badge" alt="sahil3276" /></a> </p>
+<hr>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### 📩 My Blog Posts
+
+- [Amass Part 1](https://sahil3276.medium.com/unlocking-the-full-potential-of-amass-part-1-0521ddbee8cc)
+- [Amass Part 2](https://sahil3276.medium.com/unlocking-the-full-potential-of-amass-part-2-292b7fab6618)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,3 +51,5 @@
   <img src="https://img.shields.io/badge/Autopsy-FF5733?style=for-the-badge&logo=apache&logoColor=white" alt="Autopsy"/>
   <img src="https://img.shields.io/badge/FTK%20Imager-4A4A4A?style=for-the-badge&logoColor=white" alt="FTK Imager"/>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil3276&label=Profile%20views&color=0e75b6&style=flat" alt="sahil3276" /> </p>
