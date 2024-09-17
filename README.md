@@ -58,7 +58,8 @@
 
 <hr>
 <!-- GitHub contribution grid snake -->
-### Life status
+### 🔗 Connect with Me:
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p>
