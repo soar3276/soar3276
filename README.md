@@ -53,3 +53,8 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil3276&label=Profile%20views&color=0e75b6&style=flat" alt="sahil3276" /> </p>
+
+<!-- GitHub contribution grid snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+</p>
