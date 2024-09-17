@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/soar3276/soar3276/main/soar.gif" alt="Sahil Shah" width="800"/>
+  <img src="https://raw.githubusercontent.com/soar3276/soar3276/main/soar.gif" alt="Sahil Shah" width="600"/>
 </h1>
 
 <h4 align="center">
@@ -18,8 +18,6 @@
 
 - [Amass Part-1](https://sahil3276.medium.com/unlocking-the-full-potential-of-amass-part-1-0521ddbee8cc)
 - [Amass Part-2](https://sahil3276.medium.com/unlocking-the-full-potential-of-amass-part-2-292b7fab6618)
-
-
 
 ### 🛠️ Tools
 
@@ -43,6 +41,11 @@
   <img src="https://img.shields.io/badge/Joe%20Sandbox-00FF00?style=for-the-badge&logoColor=white" alt="Joe Sandbox"/>
   <img src="https://img.shields.io/badge/Hybrid%20Analysis-000000?style=for-the-badge&logoColor=white" alt="Hybrid Analysis"/>
 </p>
+
+### 🏆 CVEs
+
+- CVE-2024-38305
+- CVE-2024-44346
 
 ### 🔗 Connect with me:
 <p align="left">
