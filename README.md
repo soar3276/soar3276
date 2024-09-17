@@ -1,7 +1,10 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/soar3276/soar3276/main/soar.gif" alt="Sahil Shah" width="800"/>
 </h1>
-<h4 align="center">Cybersecurity Enthusiast | Penetration Tester | Incident Response | CTF Player | Custom Tool Creator | Network Security</h4>
+-------------------------------------------------------------------------------------------------------------
+<h4 align="center">
+  Cybersecurity Enthusiast | Penetration Tester | Incident Response | CTF Player | Custom Tool Creator | Network Security
+</h4>
 
 <details>
   <summary>📈 GitHub Statistics</summary>
