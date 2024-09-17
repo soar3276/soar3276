@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil3276&label=Profile%20views&color=0e75b6&style=flat" alt="sahil3276" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil3276" alt="sahil3276" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/sahil3276" target="blank"><img src="https://img.shields.io/twitter/follow/sahil3276?logo=twitter&style=for-the-badge" alt="sahil3276" /></a> </p>
 
 ### Blogs posts
