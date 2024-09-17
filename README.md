@@ -22,7 +22,7 @@
 
 <hr>
 
-### 🛠️ Tools
+### 🛠️ Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/Burp%20Suite-00538C?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
