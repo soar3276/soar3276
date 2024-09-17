@@ -8,8 +8,8 @@
 
 ### 🏆 CVEs
 
-- ![CVE-2024-38305](https://www.dell.com/support/kbdoc/en-us/000227899/dsa-2024-312-security-update-for-dell-supportassist-for-home-pcs-installer-file-local-privilege-escalation-vulnerability)
-- ![CVE-2024-44346](https://tosibox.service-now.com/customer_portal?id=kb_article_view&sys_kb_id=569a9b4a3318de108efa2c023d5c7bc5)
+- [CVE-2024-38305](https://www.dell.com/support/kbdoc/en-us/000227899/dsa-2024-312-security-update-for-dell-supportassist-for-home-pcs-installer-file-local-privilege-escalation-vulnerability)
+- [CVE-2024-44346](https://tosibox.service-now.com/customer_portal?id=kb_article_view&sys_kb_id=569a9b4a3318de108efa2c023d5c7bc5)
 
 
 <details>
