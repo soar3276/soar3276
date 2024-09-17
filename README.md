@@ -20,6 +20,8 @@
 - [Amass Part-1](https://sahil3276.medium.com/unlocking-the-full-potential-of-amass-part-1-0521ddbee8cc)
 - [Amass Part-2](https://sahil3276.medium.com/unlocking-the-full-potential-of-amass-part-2-292b7fab6618)
 
+<hr>
+
 ### 🛠️ Tools
 
 <p align="left">
@@ -44,6 +46,7 @@
 
 </p>
 
+<hr>
 
 ### 🔗 Connect with Me:
 <p align="left">
@@ -53,6 +56,7 @@
   <a href="https://medium.com/@sahil3276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sahil3276" height="30" width="40" /></a>
 </p>
 
+<hr>
 <!-- GitHub contribution grid snake -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
