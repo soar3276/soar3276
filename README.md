@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/soar3276/soar3276/main/yo.gif" alt="Sahil Shah" width="600"/>
+  <img src="https://raw.githubusercontent.com/soar3276/soar3276/main/yo.gif" alt="Sahil Shah" width="800"/>
 </h1>
 
 <h4 align="center">
