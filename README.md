@@ -7,7 +7,7 @@
 <details>
   <summary>📈 GitHub Statistics</summary>
   
-  ![GitHub Statistics](https://metrics.lecoq.io/kkrypt0nn?template=classic&followup=1&languages=1&config.timezone=Europe%2FZurich)
+  ![GitHub Statistics](https://komarev.com/ghpvc/?username=sahil3276&label=Profile%20views&color=0e75b6&style=flat)
   
 </details>
 
