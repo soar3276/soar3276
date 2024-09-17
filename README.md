@@ -21,7 +21,7 @@
 
 ### 🛠️ Tools
 
-#### Offensive Tools
+####  Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Burp%20Suite-00538C?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
   <img src="https://img.shields.io/badge/Acunetix-000000?style=for-the-badge&logo=acunetix&logoColor=white" alt="Acunetix"/>
@@ -30,10 +30,6 @@
   <img src="https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge&logo=shodan&logoColor=white" alt="Shodan"/>
   <img src="https://img.shields.io/badge/Censys-2E76C8?style=for-the-badge&logo=censys&logoColor=white" alt="Censys"/>
   <img src="https://img.shields.io/badge/Amass-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Amass"/>
-</p>
-
-#### Defensive Tools
-<p align="left">
   <img src="https://img.shields.io/badge/Nessus-00C853?style=for-the-badge&logo=tenable&logoColor=white" alt="Nessus"/>
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/>
   <img src="https://img.shields.io/badge/Snort-FF0000?style=for-the-badge&logo=snort&logoColor=white" alt="Snort"/>
@@ -42,10 +38,6 @@
   <img src="https://img.shields.io/badge/Autopsy-FF5733?style=for-the-badge&logo=apache&logoColor=white" alt="Autopsy"/>
   <img src="https://img.shields.io/badge/MobSF-0366D6?style=for-the-badge&logo=github&logoColor=white" alt="MobSF"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-</p>
-
-#### Malware Analysis Tools
-<p align="left">
   <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" alt="VirusTotal"/>
   <img src="https://img.shields.io/badge/Joe%20Sandbox-00FF00?style=for-the-badge&logoColor=white" alt="Joe Sandbox"/>
   <img src="https://img.shields.io/badge/Hybrid%20Analysis-000000?style=for-the-badge&logoColor=white" alt="Hybrid Analysis"/>
