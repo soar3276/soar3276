@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sahil Shah</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/soar3276/soar3276/main/soar123-ezgif.com-crop.gif" alt="Sahil Shah" width="200"/>
+  <br>Hi 👋, I'm Sahil Shah
+</h1>
 <h3 align="center">Cybersecurity Enthusiast | Penetration Tester | Incident Response | CTF Player | Custom Tool Creator | Network Security</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil3276&label=Profile%20views&color=0e75b6&style=flat" alt="sahil3276" /> </p>
